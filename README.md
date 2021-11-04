@@ -21,4 +21,4 @@
 Studium
 
 
-![Bildueberschrift] https://pfotendoctor.de/blog/katze-miaut-warum.jpg "Meow"
+![^.^](https://pfotendoctor.de/blog/katze-miaut-warum.jpg "Meow")
